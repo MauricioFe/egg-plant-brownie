@@ -7,37 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		672DDA1528AE7C5400063CCE /* RefeicoesTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 672DDA1428AE7C5400063CCE /* RefeicoesTableViewController.swift */; };
-		6751266228AC0DAB00C2D4E0 /* Refeicao.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6751266128AC0DAB00C2D4E0 /* Refeicao.swift */; };
-		6751266428AC0DEB00C2D4E0 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6751266328AC0DEB00C2D4E0 /* Item.swift */; };
-		67A2593928A57B42001BAE31 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67A2593828A57B42001BAE31 /* AppDelegate.swift */; };
-		67A2593B28A57B42001BAE31 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67A2593A28A57B42001BAE31 /* SceneDelegate.swift */; };
-		67A2593D28A57B42001BAE31 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67A2593C28A57B42001BAE31 /* ViewController.swift */; };
-		67A2594028A57B42001BAE31 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 67A2593E28A57B42001BAE31 /* Main.storyboard */; };
-		67A2594228A57B43001BAE31 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 67A2594128A57B43001BAE31 /* Assets.xcassets */; };
-		67A2594528A57B43001BAE31 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 67A2594328A57B43001BAE31 /* LaunchScreen.storyboard */; };
-		67C8833D28B40168008B4D94 /* AdicionarItensViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67C8833B28B40168008B4D94 /* AdicionarItensViewController.swift */; };
-		67C8833E28B40168008B4D94 /* AdicionarItensViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 67C8833C28B40168008B4D94 /* AdicionarItensViewController.xib */; };
+		6723AF3D28AD211E00AE5D97 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6723AF3C28AD211E00AE5D97 /* AppDelegate.swift */; };
+		6723AF3F28AD211E00AE5D97 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6723AF3E28AD211E00AE5D97 /* SceneDelegate.swift */; };
+		6723AF4128AD211E00AE5D97 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6723AF4028AD211E00AE5D97 /* ViewController.swift */; };
+		6723AF4428AD211E00AE5D97 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6723AF4228AD211E00AE5D97 /* Main.storyboard */; };
+		6723AF4628AD211F00AE5D97 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6723AF4528AD211F00AE5D97 /* Assets.xcassets */; };
+		6723AF4928AD211F00AE5D97 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6723AF4728AD211F00AE5D97 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		672DDA1428AE7C5400063CCE /* RefeicoesTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RefeicoesTableViewController.swift; sourceTree = "<group>"; };
-		6751266128AC0DAB00C2D4E0 /* Refeicao.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Refeicao.swift; sourceTree = "<group>"; };
-		6751266328AC0DEB00C2D4E0 /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
-		67A2593528A57B42001BAE31 /* eggplant-brownie.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "eggplant-brownie.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		67A2593828A57B42001BAE31 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		67A2593A28A57B42001BAE31 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		67A2593C28A57B42001BAE31 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		67A2593F28A57B42001BAE31 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		67A2594128A57B43001BAE31 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		67A2594428A57B43001BAE31 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		67A2594628A57B43001BAE31 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		67C8833B28B40168008B4D94 /* AdicionarItensViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdicionarItensViewController.swift; sourceTree = "<group>"; };
-		67C8833C28B40168008B4D94 /* AdicionarItensViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = AdicionarItensViewController.xib; sourceTree = "<group>"; };
+		6723AF3928AD211E00AE5D97 /* tabela-refeicoes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "tabela-refeicoes.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6723AF3C28AD211E00AE5D97 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		6723AF3E28AD211E00AE5D97 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		6723AF4028AD211E00AE5D97 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		6723AF4328AD211E00AE5D97 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		6723AF4528AD211F00AE5D97 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		6723AF4828AD211F00AE5D97 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		6723AF4A28AD211F00AE5D97 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		67A2593228A57B42001BAE31 /* Frameworks */ = {
+		6723AF3628AD211E00AE5D97 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -47,101 +37,72 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		6751266528AC13C100C2D4E0 /* models */ = {
+		6723AF3028AD211E00AE5D97 = {
 			isa = PBXGroup;
 			children = (
-				6751266128AC0DAB00C2D4E0 /* Refeicao.swift */,
-				6751266328AC0DEB00C2D4E0 /* Item.swift */,
-			);
-			path = models;
-			sourceTree = "<group>";
-		};
-		6751266628AC13FD00C2D4E0 /* controller */ = {
-			isa = PBXGroup;
-			children = (
-				67C8833B28B40168008B4D94 /* AdicionarItensViewController.swift */,
-				67A2593C28A57B42001BAE31 /* ViewController.swift */,
-				672DDA1428AE7C5400063CCE /* RefeicoesTableViewController.swift */,
-			);
-			path = controller;
-			sourceTree = "<group>";
-		};
-		6751266728AC144400C2D4E0 /* views */ = {
-			isa = PBXGroup;
-			children = (
-				67A2593E28A57B42001BAE31 /* Main.storyboard */,
-				67A2594328A57B43001BAE31 /* LaunchScreen.storyboard */,
-				67C8833C28B40168008B4D94 /* AdicionarItensViewController.xib */,
-			);
-			path = views;
-			sourceTree = "<group>";
-		};
-		67A2592C28A57B42001BAE31 = {
-			isa = PBXGroup;
-			children = (
-				67A2593728A57B42001BAE31 /* eggplant-brownie */,
-				67A2593628A57B42001BAE31 /* Products */,
+				6723AF3B28AD211E00AE5D97 /* tabela-refeicoes */,
+				6723AF3A28AD211E00AE5D97 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		67A2593628A57B42001BAE31 /* Products */ = {
+		6723AF3A28AD211E00AE5D97 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				67A2593528A57B42001BAE31 /* eggplant-brownie.app */,
+				6723AF3928AD211E00AE5D97 /* tabela-refeicoes.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		67A2593728A57B42001BAE31 /* eggplant-brownie */ = {
+		6723AF3B28AD211E00AE5D97 /* tabela-refeicoes */ = {
 			isa = PBXGroup;
 			children = (
-				6751266728AC144400C2D4E0 /* views */,
-				6751266528AC13C100C2D4E0 /* models */,
-				6751266628AC13FD00C2D4E0 /* controller */,
-				67A2593828A57B42001BAE31 /* AppDelegate.swift */,
-				67A2593A28A57B42001BAE31 /* SceneDelegate.swift */,
-				67A2594128A57B43001BAE31 /* Assets.xcassets */,
-				67A2594628A57B43001BAE31 /* Info.plist */,
+				6723AF3C28AD211E00AE5D97 /* AppDelegate.swift */,
+				6723AF3E28AD211E00AE5D97 /* SceneDelegate.swift */,
+				6723AF4028AD211E00AE5D97 /* ViewController.swift */,
+				6723AF4228AD211E00AE5D97 /* Main.storyboard */,
+				6723AF4528AD211F00AE5D97 /* Assets.xcassets */,
+				6723AF4728AD211F00AE5D97 /* LaunchScreen.storyboard */,
+				6723AF4A28AD211F00AE5D97 /* Info.plist */,
 			);
-			path = "eggplant-brownie";
+			path = "tabela-refeicoes";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		67A2593428A57B42001BAE31 /* eggplant-brownie */ = {
+		6723AF3828AD211E00AE5D97 /* tabela-refeicoes */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 67A2594928A57B43001BAE31 /* Build configuration list for PBXNativeTarget "eggplant-brownie" */;
+			buildConfigurationList = 6723AF4D28AD211F00AE5D97 /* Build configuration list for PBXNativeTarget "tabela-refeicoes" */;
 			buildPhases = (
-				67A2593128A57B42001BAE31 /* Sources */,
-				67A2593228A57B42001BAE31 /* Frameworks */,
-				67A2593328A57B42001BAE31 /* Resources */,
+				6723AF3528AD211E00AE5D97 /* Sources */,
+				6723AF3628AD211E00AE5D97 /* Frameworks */,
+				6723AF3728AD211E00AE5D97 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "eggplant-brownie";
-			productName = "eggplant-brownie";
-			productReference = 67A2593528A57B42001BAE31 /* eggplant-brownie.app */;
+			name = "tabela-refeicoes";
+			productName = "tabela-refeicoes";
+			productReference = 6723AF3928AD211E00AE5D97 /* tabela-refeicoes.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		67A2592D28A57B42001BAE31 /* Project object */ = {
+		6723AF3128AD211E00AE5D97 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1320;
 				LastUpgradeCheck = 1320;
 				TargetAttributes = {
-					67A2593428A57B42001BAE31 = {
+					6723AF3828AD211E00AE5D97 = {
 						CreatedOnToolsVersion = 13.2.1;
 					};
 				};
 			};
-			buildConfigurationList = 67A2593028A57B42001BAE31 /* Build configuration list for PBXProject "eggplant-brownie" */;
+			buildConfigurationList = 6723AF3428AD211E00AE5D97 /* Build configuration list for PBXProject "tabela-refeicoes" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -149,60 +110,55 @@
 				en,
 				Base,
 			);
-			mainGroup = 67A2592C28A57B42001BAE31;
-			productRefGroup = 67A2593628A57B42001BAE31 /* Products */;
+			mainGroup = 6723AF3028AD211E00AE5D97;
+			productRefGroup = 6723AF3A28AD211E00AE5D97 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				67A2593428A57B42001BAE31 /* eggplant-brownie */,
+				6723AF3828AD211E00AE5D97 /* tabela-refeicoes */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		67A2593328A57B42001BAE31 /* Resources */ = {
+		6723AF3728AD211E00AE5D97 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				67A2594528A57B43001BAE31 /* LaunchScreen.storyboard in Resources */,
-				67A2594228A57B43001BAE31 /* Assets.xcassets in Resources */,
-				67C8833E28B40168008B4D94 /* AdicionarItensViewController.xib in Resources */,
-				67A2594028A57B42001BAE31 /* Main.storyboard in Resources */,
+				6723AF4928AD211F00AE5D97 /* LaunchScreen.storyboard in Resources */,
+				6723AF4628AD211F00AE5D97 /* Assets.xcassets in Resources */,
+				6723AF4428AD211E00AE5D97 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		67A2593128A57B42001BAE31 /* Sources */ = {
+		6723AF3528AD211E00AE5D97 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6751266428AC0DEB00C2D4E0 /* Item.swift in Sources */,
-				67A2593D28A57B42001BAE31 /* ViewController.swift in Sources */,
-				67C8833D28B40168008B4D94 /* AdicionarItensViewController.swift in Sources */,
-				67A2593928A57B42001BAE31 /* AppDelegate.swift in Sources */,
-				672DDA1528AE7C5400063CCE /* RefeicoesTableViewController.swift in Sources */,
-				67A2593B28A57B42001BAE31 /* SceneDelegate.swift in Sources */,
-				6751266228AC0DAB00C2D4E0 /* Refeicao.swift in Sources */,
+				6723AF4128AD211E00AE5D97 /* ViewController.swift in Sources */,
+				6723AF3D28AD211E00AE5D97 /* AppDelegate.swift in Sources */,
+				6723AF3F28AD211E00AE5D97 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		67A2593E28A57B42001BAE31 /* Main.storyboard */ = {
+		6723AF4228AD211E00AE5D97 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				67A2593F28A57B42001BAE31 /* Base */,
+				6723AF4328AD211E00AE5D97 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		67A2594328A57B43001BAE31 /* LaunchScreen.storyboard */ = {
+		6723AF4728AD211F00AE5D97 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				67A2594428A57B43001BAE31 /* Base */,
+				6723AF4828AD211F00AE5D97 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -210,7 +166,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		67A2594728A57B43001BAE31 /* Debug */ = {
+		6723AF4B28AD211F00AE5D97 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -271,7 +227,7 @@
 			};
 			name = Debug;
 		};
-		67A2594828A57B43001BAE31 /* Release */ = {
+		6723AF4C28AD211F00AE5D97 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -326,7 +282,7 @@
 			};
 			name = Release;
 		};
-		67A2594A28A57B43001BAE31 /* Debug */ = {
+		6723AF4E28AD211F00AE5D97 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -334,7 +290,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "eggplant-brownie/Info.plist";
+				INFOPLIST_FILE = "tabela-refeicoes/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -345,7 +301,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.teste.eggplant-brownie";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.teste.tabela-refeicoes";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -353,7 +309,7 @@
 			};
 			name = Debug;
 		};
-		67A2594B28A57B43001BAE31 /* Release */ = {
+		6723AF4F28AD211F00AE5D97 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -361,7 +317,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "eggplant-brownie/Info.plist";
+				INFOPLIST_FILE = "tabela-refeicoes/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -372,7 +328,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.teste.eggplant-brownie";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.teste.tabela-refeicoes";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -383,25 +339,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		67A2593028A57B42001BAE31 /* Build configuration list for PBXProject "eggplant-brownie" */ = {
+		6723AF3428AD211E00AE5D97 /* Build configuration list for PBXProject "tabela-refeicoes" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				67A2594728A57B43001BAE31 /* Debug */,
-				67A2594828A57B43001BAE31 /* Release */,
+				6723AF4B28AD211F00AE5D97 /* Debug */,
+				6723AF4C28AD211F00AE5D97 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		67A2594928A57B43001BAE31 /* Build configuration list for PBXNativeTarget "eggplant-brownie" */ = {
+		6723AF4D28AD211F00AE5D97 /* Build configuration list for PBXNativeTarget "tabela-refeicoes" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				67A2594A28A57B43001BAE31 /* Debug */,
-				67A2594B28A57B43001BAE31 /* Release */,
+				6723AF4E28AD211F00AE5D97 /* Debug */,
+				6723AF4F28AD211F00AE5D97 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 67A2592D28A57B42001BAE31 /* Project object */;
+	rootObject = 6723AF3128AD211E00AE5D97 /* Project object */;
 }
